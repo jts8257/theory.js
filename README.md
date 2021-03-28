@@ -1,7 +1,7 @@
 # Inside_JS
 
 ### 1장 : 자바스크립트 소개
-* [ECMAScript]()
+* [ECMAScript](https://github.com/jts8257/Inside_JS/blob/main/ECMAScript.md)
 * 주요 개념 : 객체, 함수, 프로토타입, 실행 컨텍스트와 클로저<br>
 * JS 단점 
 > 느슨한 타입 체크로 컴파일 단계에서 오류를 잡기보다는 런타임 오류로 발견됨.<br>
