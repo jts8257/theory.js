@@ -20,7 +20,7 @@
 <p> JS에서 함수가 특히나 중요한데, 이는 함수가 기본적 기능인 호출해서 결과값 얻기 뿐만 아니라 모듈화 처리, 클로저, 객체 생성 등 JS의 근간이 되는 많은 기능을 제공하고 있기때문임 </p>
 
 * [함수 정의](https://github.com/jts8257/Inside_JS/blob/main/%ED%95%A8%EC%88%98%EC%A0%95%EC%9D%98.md)
-* 함수 객체
+* [함수 객체](https://github.com/jts8257/Inside_JS/blob/main/%ED%95%A8%EC%88%98%EA%B0%9D%EC%B2%B4.md)
 * 다양한 함수 형태
 * 함수 호출과 this
 * 프로토타입과 프로토타입 체이닝
