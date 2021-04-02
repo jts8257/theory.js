@@ -24,3 +24,6 @@
 * [다양한 함수 형태](https://github.com/jts8257/Inside_JS/blob/main/%ED%95%A8%EC%88%98%EC%9D%98%20%EB%8B%A4%EC%96%91%ED%95%9C%20%ED%98%95%ED%83%9C.md)
 * 함수 호출과 this
 * 프로토타입과 프로토타입 체이닝
+
+### 부록
+* [JS clean code](https://github.com/qkraudghgh/clean-code-javascript-ko)
