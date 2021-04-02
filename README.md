@@ -25,6 +25,7 @@
 * [함수 호출과 this](https://github.com/jts8257/Inside_JS/blob/main/%ED%95%A8%EC%88%984.md)
 * 프로토타입과 프로토타입 체이닝
 ### 부록
+* [미리 정의된 전역함수](http://www.tcpschool.com/javascript/js_function_predefinedFunction)
 * [JS clean code](https://github.com/qkraudghgh/clean-code-javascript-ko)
 * [JS 공부 사이트](http://www.tcpschool.com/javascript/intro)
 * DOM
