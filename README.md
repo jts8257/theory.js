@@ -22,7 +22,7 @@
 * [함수 정의](https://github.com/jts8257/Inside_JS/blob/main/%ED%95%A8%EC%88%98%EC%A0%95%EC%9D%98.md)
 * [함수 객체](https://github.com/jts8257/Inside_JS/blob/main/%ED%95%A8%EC%88%98%EA%B0%9D%EC%B2%B4.md)
 * [다양한 함수 형태](https://github.com/jts8257/Inside_JS/blob/main/%ED%95%A8%EC%88%98%EC%9D%98%20%EB%8B%A4%EC%96%91%ED%95%9C%20%ED%98%95%ED%83%9C.md)
-* [함수 호출과 this](https://github.com/jts8257/Inside_JS/blob/main/%ED%95%A8%EC%88%98%20%ED%98%B8%EC%B6%9C%EA%B3%BC%20this.md)
+* [함수 호출과 this](https://github.com/jts8257/Inside_JS/blob/main/%ED%95%A8%EC%88%983.md)
 * 프로토타입과 프로토타입 체이닝
 
 ### 부록
