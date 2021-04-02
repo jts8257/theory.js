@@ -26,4 +26,6 @@
 * 프로토타입과 프로토타입 체이닝
 ### 부록
 * [JS clean code](https://github.com/qkraudghgh/clean-code-javascript-ko)
+* [JS 공부 사이트](http://www.tcpschool.com/javascript/intro)
 * DOM
+* BOM과 window객체
