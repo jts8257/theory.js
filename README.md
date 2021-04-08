@@ -18,7 +18,7 @@
 * [함수 객체](https://github.com/jts8257/Inside_JS/blob/main/%ED%95%A8%EC%88%98%EA%B0%9D%EC%B2%B4.md)
 * [다양한 함수 형태](https://github.com/jts8257/Inside_JS/blob/main/%ED%95%A8%EC%88%983.md)
 * [함수 호출과 this](https://github.com/jts8257/Inside_JS/blob/main/%ED%95%A8%EC%88%984.md)
-* 프로토타입과 프로토타입 체이닝
+* [프로토타입과 프로토타입 체이닝](https://github.com/jts8257/theory.js/blob/main/%ED%95%A8%EC%88%985.md)
 
 ### 부록
 * [미리 정의된 전역함수](http://www.tcpschool.com/javascript/js_function_predefinedFunction)
