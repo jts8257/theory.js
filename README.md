@@ -20,6 +20,14 @@
 * [함수 호출과 this](https://github.com/jts8257/Inside_JS/blob/main/%ED%95%A8%EC%88%984.md)
 * [프로토타입과 프로토타입 체이닝](https://github.com/jts8257/theory.js/blob/main/%ED%95%A8%EC%88%985.md)
 
+### 실행 컨텍스트와 클로저
+<p> JS가 실행될 때 생성되는 하나의 실행 단위인 실행 컨텍스트, 변수의 유효 범위, 클로저의 개념을 설명함. 이들을 정확히 이해하지 못하면 다른 사람이 작성한 JS코드를 이해하기 어렵고, 활용하기 불편할 뿐만 아니라 디버깅도 굉장히 어려울 것임.</p>
+
+* [실행 컨텍스트(Excution context)의 개념]()
+* 활성 객체(Activation Object)와 변수 객체(variable Object)
+* 스코프 체인(Scope Chain)
+* 클로저 (Closure)
+
 ### 부록
 * [미리 정의된 전역함수](http://www.tcpschool.com/javascript/js_function_predefinedFunction)
 * [전역 객체](http://www.tcpschool.com/javascript/js_standard_object)
