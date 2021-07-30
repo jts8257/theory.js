@@ -31,7 +31,7 @@
 ### 부록
 * [미리 정의된 전역함수](http://www.tcpschool.com/javascript/js_function_predefinedFunction)
 * [전역 객체](http://www.tcpschool.com/javascript/js_standard_object)
-* [const의 정체]
+* [const의 정체](https://github.com/jts8257/theory.js/blob/main/const%EC%9D%98%EC%A0%95%EC%B2%B4.md)
 * [JS clean code](https://github.com/qkraudghgh/clean-code-javascript-ko)
 * [JS 공부 사이트](http://www.tcpschool.com/javascript/intro)
 * DOM
